@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/xml/checkbox.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/xml/checkbox.xml"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/xml/device_admin.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/xml/device_admin.xml"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/xml/checked.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/xml/checked.xml"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/xml/unchecked.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/xml/unchecked.xml"
+    }
+]

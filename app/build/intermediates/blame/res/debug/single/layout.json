@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/layout/alarm_row.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/layout/alarm_row.xml"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/layout/activity_alarm_screen.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/layout/activity_alarm_screen.xml"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/layout/alarm_add_screen.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/layout/alarm_add_screen.xml"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/layout/week_button.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/layout/week_button.xml"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/layout/activity_create_alarm.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/layout/activity_create_alarm.xml"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/layout/activity_alarm_service.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/layout/activity_alarm_service.xml"
+    }
+]

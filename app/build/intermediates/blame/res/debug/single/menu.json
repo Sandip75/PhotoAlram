@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/menu/alarm_screen.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/menu/alarm_screen.xml"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/menu/add_alarm_menu.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/menu/add_alarm_menu.xml"
+    }
+]

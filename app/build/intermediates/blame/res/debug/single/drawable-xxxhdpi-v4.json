@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_notifications_black_48dp.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-xxxhdpi/ic_notifications_black_48dp.png"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_delete_black_48dp.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-xxxhdpi/ic_delete_black_48dp.png"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_image_black_48dp.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-xxxhdpi/ic_image_black_48dp.png"
+    }
+]

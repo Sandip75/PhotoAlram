@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/set_music.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-ldpi/set_music.png"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/save.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-ldpi/save.png"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/set_image.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-ldpi/set_image.png"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/background_add_acreen.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-ldpi/background_add_acreen.png"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/stop_alarm.gif",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-ldpi/stop_alarm.gif"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/cancel.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-ldpi/cancel.png"
+    }
+]

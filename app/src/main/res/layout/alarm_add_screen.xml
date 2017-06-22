@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.practice.photoalaram.AlarmAddScreen"
+    style="@style/AppTheme"
+    android:theme="@style/AppBaseTheme">
+
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/timePickerlayout"
+        android:onClick="createAlarm">
+
+        <TextView
+            android:id="@+id/alarmTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textSize="80dp"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"/>
+
+    </RelativeLayout>
+    <Switch
+        android:id="@+id/repeatAlarm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Repeat Alarm"
+        android:layout_below="@+id/timePickerlayout" />
+
+    <LinearLayout
+        android:id="@+id/weeklayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/repeatAlarm"
+        android:paddingTop="5dp">
+
+    </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/buttonlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/weeklayout">
+        <LinearLayout
+            android:id="@+id/imageAddLayout"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:paddingTop="5dp"
+            android:clickable="true">
+            <ImageView
+                android:id="@+id/imageThumbnail"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/ic_image_black_48dp"/>
+            <TextView
+                android:id="@+id/imageName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:paddingLeft="20dp"
+                android:text="Default"/>
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/musicAddLayout"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_below="@+id/imageAddLayout"
+            android:paddingTop="5dp"
+            android:clickable="true">
+            <ImageView
+                android:id="@+id/musicThumbnail"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/ic_notifications_black_48dp"/>
+            <TextView
+                android:id="@+id/musicName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:paddingLeft="20dp"
+                android:text="Default"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

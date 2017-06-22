@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-hdpi/button.xml"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete_black_48dp.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-hdpi/ic_delete_black_48dp.png"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/alarm.jpg",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-hdpi/alarm.jpg"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/set_music.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-hdpi/set_music.png"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rectangle.xml",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-hdpi/rectangle.xml"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cancel.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-hdpi/cancel.png"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_notifications_black_48dp.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-hdpi/ic_notifications_black_48dp.png"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background_add_acreen.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-hdpi/background_add_acreen.png"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/daybutton.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-hdpi/daybutton.png"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stop_alarm.gif",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-hdpi/stop_alarm.gif"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/set_image.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-hdpi/set_image.png"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_image_black_48dp.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-hdpi/ic_image_black_48dp.png"
+    },
+    {
+        "merged": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/save.png",
+        "source": "/home/leo/Programs/Android/Projects/PhotoAlaram/app/src/main/res/drawable-hdpi/save.png"
+    }
+]
